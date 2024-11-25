@@ -60,7 +60,7 @@ This will start the app and open it in your default browser.
 
 Here's a quick look at what the app looks like:
 
-![Todo List App Screenshot](Screenshot)
+![Todo List App Screenshot](Screenshot2024-11-25183240.jpg)
 
 ---
 
